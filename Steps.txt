@@ -1,0 +1,4 @@
+// Create a quick design in figma
+//Determine TechStack to use - React, Tailwind, TypeScript
+//Code 
+//Deploy
